@@ -1,0 +1,6 @@
+{
+  "name": "KosmoMath: Petualangan Perkalian Kelas 5",
+  "description": "Game petualangan luar angkasa edukatif matematika kelas 5 SD untuk menguasai materi perkalian bilangan bulat dengan misi galaksi interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
